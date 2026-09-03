@@ -178,5 +178,15 @@ available: false,
   icon: "✂️",
   href: "/herramientas/dividir-pdf",
   available: true,
+},
+
+{
+  name: "PDF a Texto",
+  description: "Extrae el texto de un archivo PDF directamente desde el navegador.",
+  category: "PDF",
+  icon: "📝",
+  href: "/herramientas/pdf-texto",
+  available: true,
 }
+
 ];
